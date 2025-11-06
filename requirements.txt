@@ -1,0 +1,2 @@
+# Pure standard library implementation. Dependencies can be added here if you
+# decide to plug in real NLP models or external data sources.
